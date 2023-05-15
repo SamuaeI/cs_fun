@@ -8,7 +8,7 @@ namespace Hello
         {   
 
             string secret = "Hotdog";
-            string? plrGuess;
+            string plrGuess = "";
             int guess_num = 0;
             int guess_limit = 3;
 
